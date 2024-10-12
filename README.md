@@ -22,6 +22,7 @@ Researching all of this took ***waaaay*** more time and resources than We initia
 | [Silicate](https://github.com/adafcaefc/) | not announced |  |
 | [xdBot](https://github.com/ZiLko/xdBot) | [Geode 🐧🪟](https://geode-sdk.org/mods/zilko.xdbot) | ✅ FOSS | Basic<br>+pads<br>+dash | ✅ (no rewind) | ✅ | ❌ |
 | [yBot](https://ybot.store) | 2.204<br>standalone | binary<br>4\$/8\$<br>(paused)<br>+DRM | ✅ advanced | ✅ (no rewind) | 8\$ |  |
+| Your project? | Tell Us about it. | [Create an issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/new/choose) | or visit the [Discord server](https://discord.gg/FDXyx5rwNj). |
 
 | Additional tools | No respawn flash | Video recorder | "Clickbot" input audio emulation | Safe mode |
 | --: | :-: | :-: | :-: | :-: |
