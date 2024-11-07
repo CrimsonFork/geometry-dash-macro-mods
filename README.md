@@ -6,24 +6,28 @@ Especially about not released features and eventual inaccuracies/omissions in th
 The feature overview is just for orientation purposes, not a complete or accurate representation of the software.
 
 ---
-Researching all of this took ***waaaay*** more time and resources than We initially anticipated. If you like what you're seeing here, consider donating. –Lara Flynn /Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
-
+Researching all of this took ***waaaay*** more time and resources than We initially anticipated, also We keep the list updated to the best of Our ability. If you like what you're seeing here, consider donating. –Lara Flynn /Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
 
 ---
 | Modern | Platform | Model | Trajectory | Frame stepper | Auto clicker | Straight fly |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Eclipse Menu](https://eclipse.menu) | [Geode 🖥️](https://geode-sdk.org/mods/eclipse.eclipse-menu) | ✅ FOSS | Basic | ✅ (no rewind) | ✅ | ❌ |
 | [GDH](https://tobyadd.github.io/GDH)<br>([ReplayEngine](https://github.com/TobyAdd/ReplayEngine)) | [Geode 🖥️](https://geode-sdk.org/mods/tobyadd.gdh), [🤖](https://geode-sdk.org/mods/tobyadd.gdh_mobile) | ✅ FOSS | ❌ | ✅ (no&nbsp;rewind) | ✅ | ✅ |
-| [iCreate Pro](https://icreate.pro) | 2.205 | binary 5$<br>+DRM | ✅ advanced | ✅ (no rewind) |  |  |
+| [iCreate Pro](https://icreate.pro) | 2.205 🍏 | binary 5$<br>+DRM | ✅ advanced | ✅ (no rewind) |  |  |
 | [OmegaBot 3](https://omegabot.shop) | unreleased | 10$ DRM? | ? | ? | TBD | ? |
 | [MegaHack<br>v8 Pro](https://absolllute.com/store) | [Geode 🖥️](https://geode-sdk.org/mods/absolllute.installer), [Standalone 🖥️](https://absolllute.com/store/download_mega_hack_v8_pro) | 5\$<br>+DRM | ❌ | ✅ | ❌ | ❌ |
 | [Prism Menu](https://github.com/FireMario211/Prism-Menu)<br>(Quartz/qBot)| [Geode 🖥️](https://geode-sdk.org/mods/firee.prism) | ✅ FOSS | ❌ | ✅ | ✅ | ❌ |
 | [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu?tab=readme-ov-file#qolmod)<br>(Replay WIP.) | [Geode 🖥️🤖](https://geode-sdk.org/mods/thesillydoggo.qolmod) | ✅ FOSS | Basic | ✅ |  |  ❌ |
-| [Silicate](https://github.com/adafcaefc/) | not announced |  |
+| [Silicate](https://github.com/adafcaefc) | not announced |  |
 | [xdBot](https://github.com/ZiLko/xdBot) | [Geode 🐧🪟](https://geode-sdk.org/mods/zilko.xdbot) | ✅ FOSS | Basic<br>+pads<br>+dash | ✅ (no rewind) | ✅ | ❌ |
-| [yBot](https://ybot.store) | 2.204 | binary<br>4\$/8\$<br>(paused)<br>+DRM | ✅ advanced | ✅ (no rewind) | 8\$ |  |
-| Your project? | Tell Us about it. | [Create an issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/new/choose) | or visit the [Discord server](https://discord.gg/FDXyx5rwNj). |
+| [yBot](https://ybot.store) | 2.204 | binary<br>4\$/8\$<br>(paused)<br>+DRM | ✅ advanced | ✅ (no rewind) | 🪙 8\$ |  |
+| [zBot](https://zbot.figmentcoding.me) | [Geode beta 🐧🪟](https://geode-sdk.org/mods/fig.zbot) | ✅ [source](https://github.com/FigmentBoy/zBot)<br>([aseprite](https://github.com/FigmentBoy/zBot/blob/main/LICENSE)), bin&nbsp;(4\$) | ✅ | ✅ | 🪙 paid |  |
+| Your project? | Tell Us about it. | [Create an issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/new/choose) | or visit the | [Discord server](https://discord.gg/FDXyx5rwNj). |
 
+---
+The information below is incomplete, WIP and may be outdated.
+
+---
 | Additional tools | No respawn flash | Video recorder | "Clickbot" input audio emulation | Safe mode |
 | --: | :-: | :-: | :-: | :-: |
 | [Eclipse Menu](https://eclipse.menu) | ✅ | ✅ with [FFMPEG](https://ffmpeg.org/download.html) | ❌ | ✅|
@@ -65,7 +69,7 @@ Researching all of this took ***waaaay*** more time and resources than We initia
 | xBot | [2.11](https://cdn.discordapp.com/attachments/715964955790278767/831213381541036042/Installer_xBot_Pro_UI_302.exe?ex=67095ac9&is=67080949&hm=9c46a41f24d03e8dc5300aaf001c421c32ff0807aa1e13b47abd62cb6df47d02&) | binary with paid features | Discontinued in favor of GDTASBot. "[Offline version](https://cdn.discordapp.com/attachments/715964955790278767/861181137048698900/xBot_Pro_UI.exe?ex=67099caf&is=67084b2f&hm=c83c3d23018968449f4bb7292753c085ee74d0f5f02374126c3129f683505abf&)"(?) available. [Discord server](https://discord.com/invite/3QH3vGR) open (but confusing to navifgate). |
 | xtas | 2.11 |  | Used to exist, apparently. [Discord server](http://discord.gg/VFp6aTqgkP). |
 | [ybot](https://github.com/deagahelio/ybot)<br>(not  [yBot](https://ybot.store)) | 2.11<br>🐧 | source | Experimental Rust standalone replay mod for Geometry Dash on Linux. | 
-| [zBot](https://github.com/FigmentBoy/zBot) | 2.11<br>[standalone](https://zbot.figmentcoding.me/static/zBot.dll),<br>[Geode beta](https://zbot.figmentcoding.me/static/geode/v3.0.0-beta.3/fig.zbot.geode) | source<br>([aseprite](https://github.com/FigmentBoy/zBot/blob/main/LICENSE)), bin-ish, bin&nbsp;(2\$) | The source code is available under the restictive [aseprite license](https://github.com/FigmentBoy/zBot/blob/main/LICENSE), lacks zKeyChecker files, a free trial binary is available for testing, full binary paid.
+| [zBot](https://github.com/FigmentBoy/zBot) | 2.11<br>[standalone](https://zbot.figmentcoding.me/static/zBot.dll),<br>[Geode beta](https://zbot.figmentcoding.me/static/geode/v3.0.0-beta.3/fig.zbot.geode) | source<br>([aseprite](https://github.com/FigmentBoy/zBot/blob/main/LICENSE)), bin-ish, bin&nbsp;(4\$) | A modern version is also available. The source code is available under the restictive [aseprite license](https://github.com/FigmentBoy/zBot/blob/main/LICENSE), lacks zKeyChecker files, a free trial binary is available for testing, full binary paid. |
 
 Honorable mentions.
 - [ZCB 3 Supported replay format list](https://github.com/zeozeozeo/zcb3?tab=readme-ov-file#supported-replay-formats) - Until the document here, somehow *this* was the most comprehensive Geometry Dash macroing tools list We could find.
