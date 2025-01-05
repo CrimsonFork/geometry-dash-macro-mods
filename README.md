@@ -24,11 +24,11 @@ Researching all of this took ***waaaay*** more time and resources than We initia
 | [yBot](https://ybot.store) | 2.204 | binary<br>4\$/8\$<br>(paused)<br>+DRM | ✅ advanced | ✅ (no rewind) | 🪙 8\$ |  |
 | [zBot](https://zbot.figmentcoding.me) (beta&nbsp;3.0.0) | [Geode 🪟](https://geode-sdk.org/mods/fig.zbot) | ✅ [source](https://github.com/FigmentBoy/zBot)<br>([aseprite](https://github.com/FigmentBoy/zBot/blob/main/LICENSE)), bin&nbsp;(4\$) | ✅ | ✅ | 🪙 paid |  |
 | Your project? | Tell Us about it. | [Create an issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/new/choose) | or visit the | [Discord server](https://discord.gg/FDXyx5rwNj). |
+
 ¹🐧 Linux (confirmed working with Wine/Proton), 🪟 Windows, 🍎 MacOS (none right now), 🤖 Android 🍏iOS
----
-The information below is incomplete, WIP and may be outdated.
 
 ---
+The information below is incomplete, WIP and may be outdated.
 | Additional tools | No respawn flash | Video recorder | "Clickbot" input audio emulation | Safe mode |
 | --: | :-: | :-: | :-: | :-: |
 | [Eclipse Menu](https://eclipse.menu) | ✅ | ✅ with [FFMPEG](https://ffmpeg.org/download.html) | ❌ | ✅|
