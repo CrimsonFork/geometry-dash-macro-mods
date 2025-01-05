@@ -9,21 +9,22 @@ The feature overview is just for orientation purposes, not a complete or accurat
 Researching all of this took ***waaaay*** more time and resources than We initially anticipated, also We keep the list updated to the best of Our ability. If you like what you're seeing here, consider donating. –Lara Flynn /Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
 
 ---
-| Modern | Platform | Model | Trajectory | Frame stepper | Auto clicker | Straight fly |
+**Special thanks**: [slideglide](https://github.com/CrimsonFork/geometry-dash-macro-mods/pulls?q=user%3Aslideglide)
+| Modern | Platform¹ | Model | Trajectory | Frame stepper | Auto clicker | Straight fly |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [Eclipse Menu](https://eclipse.menu) | [Geode 🖥️](https://geode-sdk.org/mods/eclipse.eclipse-menu) | ✅ FOSS | Basic | ✅ (no&nbsp;rewind) | ✅ | ❌ |
-| [GDH](https://tobyadd.github.io/GDH)<br>([ReplayEngine](https://github.com/TobyAdd/ReplayEngine)) | [Geode 🖥️](https://geode-sdk.org/mods/tobyadd.gdh), [🤖](https://geode-sdk.org/mods/tobyadd.gdh_mobile) | ✅ FOSS | ❌ | ✅ (no&nbsp;rewind) | ✅ | ✅ |
+| [GDH](https://tobyadd.github.io/GDH)<br>([ReplayEngine](https://github.com/TobyAdd/ReplayEngine)) | [Geode 🪟🐧](https://geode-sdk.org/mods/tobyadd.gdh), [🤖](https://geode-sdk.org/mods/tobyadd.gdh_mobile) | ✅ FOSS | ❌ | ✅ (no&nbsp;rewind) | ✅ | ✅ |
 | [iCreate Pro](https://icreate.pro) | 🍏 | binary 5$<br>+DRM | ✅ advanced | ✅ (no&nbsp;rewind) |  |  |
 | [OmegaBot 3](https://omegabot.shop) | unreleased | 10$ DRM? | ? | ? | TBD | ? |
-| [MegaHack<br>v8 Pro](https://absolllute.com/store) | [Geode 🖥️](https://geode-sdk.org/mods/absolllute.installer), [Standalone 🖥️](https://absolllute.com/store/download_mega_hack_v8_pro) | 5\$<br>+DRM | ❌ | ✅ | ❌ | ❌ |
-| [Prism Menu](https://github.com/FireMario211/Prism-Menu)<br>(Quartz/qBot)| [Geode 🖥️](https://geode-sdk.org/mods/firee.prism) | ✅ FOSS | ❌ | ✅ | ✅ | ❌ |
+| [MegaHack<br>v8 Pro](https://absolllute.com/store) | [Geode 🪟🐧](https://geode-sdk.org/mods/absolllute.installer), [Standalone 🪟🐧](https://absolllute.com/store/download_mega_hack_v8_pro) | 5\$<br>+DRM | ❌ | ✅ | ❌ | ❌ |
+| [Prism Menu](https://github.com/FireMario211/Prism-Menu)<br>(Quartz/QBot)| [Geode 🖥️🤖](https://geode-sdk.org/mods/firee.prism) | ✅ FOSS | ❌ | ✅&nbsp;(Macro&nbsp;Editor) | ✅ | ❌ |
 | [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu?tab=readme-ov-file#qolmod)<br>(Replay WIP.) | [Geode 🖥️🤖](https://geode-sdk.org/mods/thesillydoggo.qolmod) | ✅ FOSS | Basic | ✅ |  |  ❌ |
 | Silicate | not announced |  |
-| [xdBot](https://github.com/ZiLko/xdBot) | [Geode 🐧🪟](https://geode-sdk.org/mods/zilko.xdbot) | ✅ FOSS | Basic<br>+pads<br>+dash | ✅ (no rewind) | ✅ | ❌ |
+| [xdBot](https://github.com/ZiLko/xdBot) | [Geode 🐧🪟🤖](https://geode-sdk.org/mods/zilko.xdbot) | ✅ FOSS | Basic<br>+pads<br>+dash | ✅ (no rewind) | ❌ | ❌ |
 | [yBot](https://ybot.store) | 2.204 | binary<br>4\$/8\$<br>(paused)<br>+DRM | ✅ advanced | ✅ (no rewind) | 🪙 8\$ |  |
-| [zBot](https://zbot.figmentcoding.me) (beta&nbsp;3.0.0) | [Geode 🐧🪟](https://geode-sdk.org/mods/fig.zbot) | ✅ [source](https://github.com/FigmentBoy/zBot)<br>([aseprite](https://github.com/FigmentBoy/zBot/blob/main/LICENSE)), bin&nbsp;(4\$) | ✅ | ✅ | 🪙 paid |  |
+| [zBot](https://zbot.figmentcoding.me) (beta&nbsp;3.0.0) | [Geode 🪟](https://geode-sdk.org/mods/fig.zbot) | ✅ [source](https://github.com/FigmentBoy/zBot)<br>([aseprite](https://github.com/FigmentBoy/zBot/blob/main/LICENSE)), bin&nbsp;(4\$) | ✅ | ✅ | 🪙 paid |  |
 | Your project? | Tell Us about it. | [Create an issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/new/choose) | or visit the | [Discord server](https://discord.gg/FDXyx5rwNj). |
-
+¹🐧 Linux (confirmed working with Wine/Proton), 🪟 Windows, 🍎 MacOS (none right now), 🤖 Android 🍏iOS
 ---
 The information below is incomplete, WIP and may be outdated.
 
@@ -39,7 +40,7 @@ The information below is incomplete, WIP and may be outdated.
 | [Bot22](https://github.com/Milk-Cool/Bot22) | 2.2 | FOSS | Python script that claims to work with 2.2, candidate for the main list but untested. |
 | [Crystal Client](https://github.com/ninXout/Crystal-Client) (Amethyst) | [2.2<br>Geode](https://github.com/ninXout/Crystal-Client/releases/download/v5.0.0-alpha.4/ninxout.crystal_client.geode) | source + binary | Briefly out in beta before Crystal Client's codebase became part of a joint effort in [Eclipse Menu](https://eclipse.menu). `.thyst` files. |
 | [GDHM](https://web.archive.org/web/20240216080038/https://adaf.xyz/adaf/hm/download/v36.11/23c97c748cd86dd77aa3a4239fe7db9967fab9b49a5e9a2109a4c8563ba0b518/GDHM_TASBOT_v36.11.zip) | 2.204 | binary | To be replaced with Silicate. |
-| [GD Mega Overlay](https://github.com/maxnut/GDMegaOverlay) (GDMO) | [2.204<br>Geode<br>🐧🪟](https://github.com/maxnut/GDMegaOverlay/releases/download/2.11.1/maxnu.gd_mega_overlay.geode) | FOSS | Codebase became part of a joint effort in [Eclipse Menu](https://eclipse.menu). |
+| [GD Mega Overlay](https://github.com/maxnut/GDMegaOverlay) (GDMO) | [2.204<br>Geode<br>🪟](https://github.com/maxnut/GDMegaOverlay/releases/download/2.11.1/maxnu.gd_mega_overlay.geode) | FOSS | Codebase became part of a joint effort in [Eclipse Menu](https://eclipse.menu). |
 | [Bott](https://github.com/Cubesicle/bott) | 2.11<br>build | FOSS | Written in Rust, little info available otherwise. |
 | [CoBot](https://github.com/CoderQCYT/CoBot) | [gd.py](https://pypi.org/project/gd.py)<br>(We think.) | source executable | Python script. |
 | [DashReplay](https://github.com/EESports7/DashReplay) | 2.11 | FOSS | 
