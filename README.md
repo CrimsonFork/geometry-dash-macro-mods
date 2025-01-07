@@ -39,7 +39,7 @@ The information below is incomplete, WIP and may be outdated.
 | --: | :-: | :-: | :-- |
 | [Bot22](https://github.com/Milk-Cool/Bot22) | 2.2 | FOSS | Python script that claims to work with 2.2, candidate for the main list but untested. |
 | [Crystal Client](https://github.com/ninXout/Crystal-Client) (Amethyst) | [2.2<br>Geode](https://github.com/ninXout/Crystal-Client/releases/download/v5.0.0-alpha.4/ninxout.crystal_client.geode) | source + binary | Briefly out in beta before Crystal Client's codebase became part of a joint effort in [Eclipse Menu](https://eclipse.menu). `.thyst` files. |
-| [GDHM](https://web.archive.org/web/20240216080038/https://adaf.xyz/adaf/hm/download/v36.11/23c97c748cd86dd77aa3a4239fe7db9967fab9b49a5e9a2109a4c8563ba0b518/GDHM_TASBOT_v36.11.zip) | 2.204 | binary | To be replaced with Silicate. |
+| [GDHM](https://web.archive.org/web/20240216080038/https://adaf.xyz/adaf/hm/download/v36.11/23c97c748cd86dd77aa3a4239fe7db9967fab9b49a5e9a2109a4c8563ba0b518/GDHM_TASBOT_v36.11.zip) | 2.204 | binary |  |
 | [GD Mega Overlay](https://github.com/maxnut/GDMegaOverlay) (GDMO) | [2.204<br>Geode<br>🪟](https://github.com/maxnut/GDMegaOverlay/releases/download/2.11.1/maxnu.gd_mega_overlay.geode) | FOSS | Codebase became part of a joint effort in [Eclipse Menu](https://eclipse.menu). |
 | [Bott](https://github.com/Cubesicle/bott) | 2.11<br>build | FOSS | Written in Rust, little info available otherwise. |
 | [CoBot](https://github.com/CoderQCYT/CoBot) | [gd.py](https://pypi.org/project/gd.py)<br>(We think.) | source executable | Python script. |
