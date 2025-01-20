@@ -10,12 +10,8 @@ The feature overview is just for orientation purposes, not a complete or accurat
 **Special thanks**: [slideglide](https://github.com/CrimsonFork/geometry-dash-macro-mods/pulls?q=user%3Aslideglide)
 | Modern | Platform¹ | Model | Trajectory | Frame stepper | Auto clicker | Straight fly |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [Eclipse Menu](https://eclipse.menu) | [Geode 🖥️](https://geode-sdk.org/mods/eclipse.eclipse-menu) | ✅ FOSS | Basic | ✅ (no&nbsp;rewind) | ✅ | ❌ |
-| [GDH](https://tobyadd.github.io/GDH)<br>([ReplayEngine](https://github.com/TobyAdd/ReplayEngine)) | [Geode 🪟🐧](https://geode-sdk.org/mods/tobyadd.gdh), [🤖](https://geode-sdk.org/mods/tobyadd.gdh_mobile) | ✅ FOSS | ❌ | ✅ (no&nbsp;rewind) | ✅ | ✅ |
-| [iCreate Pro](https://icreate.pro) | 🍏 | binary 5$<br>+DRM | ✅ advanced | ✅ (no&nbsp;rewind) |  |  |
-| [OmegaBot 3](https://omegabot.shop) | unreleased | 10$ DRM? | ? | ? | TBD | ? |
 | [MegaHack<br>v8 Pro](https://absolllute.com/store) | [Geode 🪟🐧](https://geode-sdk.org/mods/absolllute.installer), [Standalone 🪟🐧](https://absolllute.com/store/download_mega_hack_v8_pro) | 5\$<br>+DRM | ❌ | ✅ | ❌ | ❌ |
-| [Prism Menu](https://github.com/FireMario211/Prism-Menu)<br>(Quartz/QBot)| [Geode 🖥️🤖](https://geode-sdk.org/mods/firee.prism) | ✅ FOSS | ❌ | ✅&nbsp;(Macro&nbsp;Editor) | ✅ | ❌ |
+| [Prism Menu](https://github.com/FireMario211/Prism-Menu)<br>(Quartz/QBot) | [Geode 🖥️🤖](https://geode-sdk.org/mods/firee.prism) | ✅ FOSS | ❌ | ✅&nbsp;(Macro&nbsp;Editor) | ✅ | ❌ |
 | [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu?tab=readme-ov-file#qolmod)<br>(Replay WIP.) | [Geode 🖥️🤖](https://geode-sdk.org/mods/thesillydoggo.qolmod) | ✅ FOSS | Basic | ✅ |  |  ❌ |
 | Silicate | not announced |  |
 | [xdBot](https://github.com/ZiLko/xdBot) | [Geode 🐧🪟🤖](https://geode-sdk.org/mods/zilko.xdbot) | ✅ FOSS | Basic<br>+pads<br>+dash | ✅ (no rewind) | ❌ | ❌ |
@@ -27,6 +23,21 @@ The feature overview is just for orientation purposes, not a complete or accurat
 
 > [!NOTE]
 > The information below is incomplete, WIP and may be outdated.
+
+|  | [Eclipse&nbsp;Menu](https://eclipse.menu) | [GDH](https://tobyadd.github.io/GDH)<br>([ReplayEngine](https://github.com/TobyAdd/ReplayEngine)) | [iCreate&nbsp;Pro](https://icreate.pro) | [OmegaBot&nbsp;3](https://omegabot.shop) | [MegaHack&nbsp;v8&nbsp;Pro](https://absolllute.com/store) | [Prism&nbsp;Menu](https://github.com/FireMario211/Prism-Menu)<br>(Quartz/QBot) | [QOLMod](https://github.com/TheSillyDoggo/GeodeMenu?tab=readme-ov-file#qolmod)<br>(Replay WIP.) | Silicate | [xdBot](https://github.com/ZiLko/xdBot) | [yBot](https://ybot.store) | [zBot](https://zbot.figmentcoding.me) (beta&nbsp;3.0.0) |
+| --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| By |  |  |  |  |  |  |  |  |  |  |  |
+| Platform | [Geode 🖥️](https://geode-sdk.org/mods/eclipse.eclipse-menu) | [Geode 🪟🐧](https://geode-sdk.org/mods/tobyadd.gdh), [🤖](https://geode-sdk.org/mods/tobyadd.gdh_mobile) | 🍏 | unreleased |  |  |  |  |  |  |  |
+| Model | ✅ FOSS | ✅ FOSS | binary 5$<br>+DRM | 10$ DRM? |  |  |  |  |  |  |  |
+| Trajectory | Basic | ❌ | ✅ advanced | ? |  |  |  |  |  |  |  |
+| Frame stepper | ✅ (no&nbsp;rewind) | ✅ (no&nbsp;rewind) | ✅ (no&nbsp;rewind) | ? |  |  |  |  |  |  |  |
+| Auto clicker | ✅ | ✅ |  | ? |  |  |  |  |  |  |  |
+| Straight fly | ❌ | ✅ |  | ? |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Additional tools | No respawn flash | Video recorder | "Clickbot" input audio emulation | Safe mode |
 | --: | :-: | :-: | :-: | :-: |
