@@ -1,14 +1,12 @@
 # geometry-dash-macro-mods
 Comprehensive list of known replay/bot/macro/TAS mods for Geometry Dash
-
-## ⚠️ Do not bother the developers. ⚠️
-Especially about not released features and eventual inaccuracies/omissions in this list. For those, open an [issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues) or submit a pull request.
+> [!WARNING]
+> **Do not bother the developers**. Especially about not released features and eventual inaccuracies/omissions in this list. For those, open an [issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues) or submit a pull request.
 The feature overview is just for orientation purposes, not a complete or accurate representation of the software.
 
----
-Researching all of this took ***waaaay*** more time and resources than We initially anticipated, also We keep the list updated to the best of Our ability. If you like what you're seeing here, consider donating. –Lara Flynn /Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
+> [!NOTE]
+> Researching all of this took ***waaaay*** more time and resources than We initially anticipated, also We keep the list updated to the best of Our ability. If you like what you're seeing here, consider donating. –Lara Flynn /Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
 
----
 **Special thanks**: [slideglide](https://github.com/CrimsonFork/geometry-dash-macro-mods/pulls?q=user%3Aslideglide)
 | Modern | Platform¹ | Model | Trajectory | Frame stepper | Auto clicker | Straight fly |
 | --: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -27,8 +25,9 @@ Researching all of this took ***waaaay*** more time and resources than We initia
 
 ¹🐧 Linux (confirmed working with Wine/Proton), 🪟 Windows, 🍎 MacOS (none right now), 🤖 Android 🍏iOS
 
----
-The information below is incomplete, WIP and may be outdated.
+> [!NOTE]
+> The information below is incomplete, WIP and may be outdated.
+
 | Additional tools | No respawn flash | Video recorder | "Clickbot" input audio emulation | Safe mode |
 | --: | :-: | :-: | :-: | :-: |
 | [Eclipse Menu](https://eclipse.menu) | ✅ | ✅ with [FFMPEG](https://ffmpeg.org/download.html) | ❌ | ✅|
