@@ -5,7 +5,7 @@ Comprehensive list of known replay/bot/macro/TAS mods for Geometry Dash
 The feature overview is just for orientation purposes, not a complete or accurate representation of the software.
 
 > [!NOTE]
-> Researching all of this took ***waaaay*** more time and resources than We initially anticipated, also We keep the list updated to the best of Our ability. If you like what you're seeing here, consider donating. –Lara Flynn / Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
+> Researching all of this took ***waaaay*** more time and resources than We initially anticipated, also We keep the list updated to the best of Our ability. If you like what you're seeing here, consider donating.<br>–Lara Flynn /Argon Radiance Winter (Crimson Fork)<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S614L244)
 
 **Special thanks**: [slideglide](https://github.com/CrimsonFork/geometry-dash-macro-mods/pulls?q=user%3Aslideglide), [EESports](https://github.com/CrimsonFork/geometry-dash-macro-mods/pulls?q=user%3AEESports7)
 
