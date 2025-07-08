@@ -1,5 +1,5 @@
 # geometry-dash-macro-mods 🏳️‍⚧️🏳️‍🌈
-Comprehensive list of known replay/bot/macro/TAS mods for Geometry Dash
+Comprehensive list of known replay/"bot"/macro/TAS mods and adjacent tools for [Geometry Dash](https://robtopgames.com)
 > [!WARNING]
 > **Do not bother the developers**. Especially about not released features and eventual inaccuracies/omissions in this list. For those, open an [issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues) or submit a pull request.
 The feature overview is just for orientation purposes, not a complete or accurate representation of the software.
