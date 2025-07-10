@@ -27,8 +27,8 @@ The feature overview is just for orientation purposes, not a complete or accurat
 |           Physics changing |                                                                                  ❌                                                                                  |                                              ✅                                               |                             ❌                              |                                                                    ❌                                                                     |                                                ✅                                                |                            ❌ (No Macro Capability)                             |                      ❌                      |                   ❌                    |                                                       ✅                                                        |                        ❌                         |                                   ❌                                   |
 |              Your project? |                                                                          Tell Us about it!                                                                          | [Create an issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/new/choose) |                        or visit the                        |                                             [Discord server](https://discord.gg/FDXyx5rwNj).                                             |                                                                                                 |                                                                                |                                             |                                        |                                                                                                                |                                                  |                                                                       |
 
-🐧 Linux (confirmed working with Wine/Proton), 🪟 Windows, 🍎 MacOS, 🖥️ All Three<br>
-🤖 Android, 🍏 iOS, 📱 Both<br>
+🐧 Linux (confirmed working with Wine/Proton), 🪟 Windows, 🍎 MacOS, 🖥️ all three.<br>
+🤖 Android, 🍏 iOS, 📱 both.<br>
 🪙 Paid Feature
 
 > [!NOTE]
@@ -87,6 +87,7 @@ The feature overview is just for orientation purposes, not a complete or accurat
 |                                      [ybot](https://github.com/deagahelio/ybot)<br>(Not  [yBot](https://ybot.store)) |                                                                                                  2.11<br>🐧🪟                                                                                                   |      FOSS       | Experimental Rust standalone replay mod for Geometry Dash on Linux. [Windows variant](https://github.com/matcool/ybot-win)                                                                                                                                                                                                                           | Physics (X-Pos)                                                               | Repo                                                                                                                                                                                                      |
 
 # Input Audio Emulators
+
 > [!Note]
 > Some of the live versions may not be compatible with 2.2
 > This list only contains clickbots that are not included with any replay bots
