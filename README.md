@@ -31,12 +31,10 @@ The feature overview is just for orientation purposes, not a complete or accurat
 🤖 Android, 🍏 iOS, 📱 both<br>
 🪙 Paid Feature
 
-> [!NOTE]
-> The information below is incomplete, WIP and may be outdated.   
+> [!NOTE] 
 > Many 2.1 projects require the [Minhook](https://github.com/HJfod/minhook/releases/download/v1.3.3-HJ.2/minhook.x32.dll) DLL.    
-> If a Discord file link is expired, copy the link into discord and open it from there (We have [plans](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/9) to have a a more accessible archive).
-> Common keybinds include `[Shift]`, `[Ctrl]`, and `[Tab]`.   
-> The physics recording type is a subset of frame recording (except for ybot)   
+> If a Discord file link is expired, copy the link into discord and open it from there. ([For now](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues/9).)<br>
+> Common keybinds include `[Shift]`, `[Ctrl]`, and `[Tab]`.
 
 |                                                                                                           Historical |                                                                                                    Platform                                                                                                     |      Model      | Notes                                                                                                                                                                                                                                                                                                                                                | Recording<br>Type                                                             | Download (Use 7zip)                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
