@@ -1,5 +1,9 @@
 # geometry-dash-macro-mods 🏳️‍⚧️🏳️‍🌈
+![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
+![trans rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
+
 Comprehensive list of known replay/"bot"/macro/TAS mods and adjacent tools for [Geometry Dash](https://robtopgames.com)
+
 > [!WARNING]
 > **Do not bother the developers**. Especially about not released features and eventual inaccuracies/omissions in this list. For those, open an [issue](https://github.com/CrimsonFork/geometry-dash-macro-mods/issues) or submit a pull request.
 The feature overview is just for orientation purposes, not a complete or accurate representation of the software.
